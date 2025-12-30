@@ -1,6 +1,6 @@
 ### ✨ Useful Software for All ✨
 
-**I'm a passionate developer with a deep interest for **Software Engineering**, **Clean Architecture**, and **Machine Learning**. I have also a keen interest for **Cybersecurity** with all the challenges our ever digitalising world faces.<br />
+I'm a passionate developer with a deep interest for **Software Engineering**, **Clean Architecture**, and **Machine Learning**. I have also a keen interest for **Cybersecurity** with all the challenges our ever digitalising world faces.
 
 ## 🛠️ Tech Stack
 <div align="center">
