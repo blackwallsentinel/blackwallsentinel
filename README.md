@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%blue)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart]([https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/dart-3670A0?style=for-the-badge&logo=dart&logoColor=ADD8E6))
+![Dart](https://img.shields.io/badge/dart-3670A0?style=for-the-badge&logo=dart&logoColor=ADD8E6)
 
 **AI/Ml Frameworks 🤖**
 <br><br>
@@ -36,7 +36,7 @@
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code
 
 ## :books: Favorite Authors and Readings
-<br>
+
 - **Robert Cecil "Uncle Bob" Martin** Clean Code: A Handbook of Agile Software Craftsmanship 
 - **Martin Fowler** Refactoring: Improving the Design of Existing Code
 - **Donald Knuth** The Art of Computer Programming
