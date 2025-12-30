@@ -1,4 +1,4 @@
-### ✨ Useful Software for All ✨
+# ✨ Useful Software for All ✨
 
 I'm a passionate developer with a deep interest for **Software Engineering**, **Clean Architecture**, and **Machine Learning**. I have also a keen interest for **Cybersecurity** with all the challenges our ever digitalising world faces.
 
@@ -23,7 +23,7 @@ I'm a passionate developer with a deep interest for **Software Engineering**, **
 </div>
 
 
-**🧠 More general knowledge**
+##🧠 Broader Knowledge##
 
 - **Languages:** Python, TypeScript, Dart, C/C++, Java
 - **Frontend:** Flutter, React-Native, Next.js, Qt, Angular, Express
