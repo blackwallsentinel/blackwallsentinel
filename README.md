@@ -43,5 +43,6 @@ I'm a passionate developer with a deep interest for **Software Engineering**, **
 - **Adam Tornhill** - Your Code as a Crime Scene 
 - **Steven S. Skiena** - The Algorithm Design Manual 
 - **Aurélien Géron** - Hands-On Machine Learning with Scikit-Learn and Pytorch
+- **Corey Charles Sr.** - Security Automation with Python
 
 
