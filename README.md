@@ -1,8 +1,8 @@
-# ✨ Useful Software for All ✨
+### ✨ Useful Software for All ✨
 
 I'm a passionate developer with a deep interest for **Software Engineering**, **Clean Architecture**, and **Machine Learning**. I have also a keen interest for **Cybersecurity** with all the challenges our ever digitalising world faces.
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 <div align="center">
 
 <br>
@@ -23,7 +23,7 @@ I'm a passionate developer with a deep interest for **Software Engineering**, **
 </div>
 
 
-## 🧠 Broader Knowledge
+# 🧠 Broader Knowledge
 
 - **Languages:** Python, TypeScript, Dart, C/C++, Java
 - **Frontend:** Flutter, React-Native, Next.js, Qt, Angular, Express
@@ -35,7 +35,7 @@ I'm a passionate developer with a deep interest for **Software Engineering**, **
 - **ASR:** Whisper
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code
 
-## :books: Favorite Authors and Readings
+# :books: Favorite Authors and Readings
 
 - **Robert Cecil "Uncle Bob" Martin** - Clean Code: A Handbook of Agile Software Craftsmanship 
 - **Martin Fowler** - Refactoring: Improving the Design of Existing Code
