@@ -23,7 +23,7 @@ I'm a passionate developer with a deep interest for **Software Engineering**, **
 </div>
 
 
-** 🧠 More general knowledge **
+**🧠 More general knowledge**
 
 - **Languages:** Python, TypeScript, Dart, C/C++, Java
 - **Frontend:** Flutter, React-Native, Next.js, Qt, Angular, Express
