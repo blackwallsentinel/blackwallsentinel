@@ -37,11 +37,11 @@ I'm a passionate developer with a deep interest for **Software Engineering**, **
 
 ## :books: Favorite Authors and Readings
 
-- **Robert Cecil "Uncle Bob" Martin** Clean Code: A Handbook of Agile Software Craftsmanship 
-- **Martin Fowler** Refactoring: Improving the Design of Existing Code
-- **Donald Knuth** The Art of Computer Programming
-- **Adam Tornhill** Your Code as a Crime Scene 
-- **Steven S. Skiena** The Algorithm Design Manual 
-- **Aurélien Géron** Hands-On Machine Learning with Scikit-Learn and Pytorch
+- **Robert Cecil "Uncle Bob" Martin** - Clean Code: A Handbook of Agile Software Craftsmanship 
+- **Martin Fowler** - Refactoring: Improving the Design of Existing Code
+- **Donald Knuth** - The Art of Computer Programming
+- **Adam Tornhill** - Your Code as a Crime Scene 
+- **Steven S. Skiena** - The Algorithm Design Manual 
+- **Aurélien Géron** - Hands-On Machine Learning with Scikit-Learn and Pytorch
 
 
