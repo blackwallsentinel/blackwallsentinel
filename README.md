@@ -33,6 +33,7 @@ I'm a passionate developer with a deep interest for **Software Engineering**, **
 - **Devops :** Openshift, Kubernetes, ElasticSearch, Prometheus, Grafana, Ansible, Terraform 
 - **NLP:** spaCy
 - **ASR:** Whisper
+- **Networking** : Wireshark, Zerotier, Tailscale
 - **Tools & Platforms:** Git, Colab, Jupyter, VS Code, Mediamtx, ONNX Runtime
 
 # :books: Favorite Authors and Readings
