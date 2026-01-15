@@ -27,7 +27,7 @@ I'm a passionate developer with a deep interest for **Software Engineering**, **
 
 - **Languages:** Python, TypeScript, Dart, C/C++, Java, Rust
 - **Frontend:** Flutter, React-Native, Next.js, Qt, Angular, Express
-- **Backend:** Meteor.Js, Ember.Js, Flask
+- **Backend:** Firebase, Meteor.Js, Ember.Js, Flask
 - **ML/DL Frameworks:** Pytorch, TensorFlow, Scikit-learn
 - **Computer Vision:** OpenCV, Kornia
 - **Devops :** Openshift, Kubernetes, ElasticSearch, Prometheus, Grafana, Ansible, Terraform 
