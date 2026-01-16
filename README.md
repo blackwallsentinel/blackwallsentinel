@@ -30,7 +30,9 @@ I'm a passionate developer with a deep interest for **Software Engineering**, **
 - **Backend:** Firebase, Meteor.Js, Ember.Js, Flask
 - **ML/DL Frameworks:** Pytorch, TensorFlow, Scikit-learn
 - **Computer Vision:** OpenCV, Kornia
-- **Devops :** Openshift, Kubernetes, ElasticSearch, Prometheus, Grafana, Ansible, Terraform 
+- **Devops :** Openshift, Kubernetes, ElasticSearch, Prometheus, Grafana, Ansible, Terraform
+- **Database Engines** : PostgreSQL
+- **Databases Backends** : Supabase
 - **NLP:** spaCy
 - **ASR:** Whisper
 - **Networking** : Wireshark, Zerotier, Tailscale
